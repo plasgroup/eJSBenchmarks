@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-#
-# Copyright 2022 by Tatsuhiko Nagaya. All rights reserved.
-# The use of this source code is governed by the MIT license.
+//
+// Copyright 2022 by Tatsuhiko Nagaya. All rights reserved.
+// The use of this source code is governed by the MIT license.
 
 const fs = require("fs");
 
